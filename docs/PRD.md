@@ -836,7 +836,3 @@ All four dev surfaces build in parallel against a **contract-first** specificati
 | Recruiter engagement without candidate volume | High | High | Reverse search works with even 10 student profiles; improve messaging around early-access value |
 
 ---
-
-*End of Document — Version 2.0*
-
-> **Next:** See `docs/FEATURES.md` for the complete feature list and `docs/TASKS.md` for the implementation checklist.
